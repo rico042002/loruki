@@ -48,7 +48,13 @@ code, pre {
     background: #333;
     color: #fff;
     padding: 10px;
-} 
+}
+
+.hidden {
+    visibility: hidden;
+    height: 0;
+}
+
 /*Navbar styling*/
 .navbar {
     background-color: var(--primary-color);
